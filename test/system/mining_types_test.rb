@@ -16,7 +16,6 @@ class MiningTypesTest < ApplicationSystemTestCase
 
     fill_in "Acronym", with: @mining_type.acronym
     fill_in "Description", with: @mining_type.description
-    fill_in "String", with: @mining_type.string
     click_on "Create Mining type"
 
     assert_text "Mining type was successfully created"
@@ -29,7 +28,6 @@ class MiningTypesTest < ApplicationSystemTestCase
 
     fill_in "Acronym", with: @mining_type.acronym
     fill_in "Description", with: @mining_type.description
-    fill_in "String", with: @mining_type.string
     click_on "Update Mining type"
 
     assert_text "Mining type was successfully updated"

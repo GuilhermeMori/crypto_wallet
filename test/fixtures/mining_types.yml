@@ -2,12 +2,8 @@
 
 one:
   description: MyString
-  string: MyString
   acronym: MyString
-  string: MyString
 
 two:
   description: MyString
-  string: MyString
   acronym: MyString
-  string: MyString
