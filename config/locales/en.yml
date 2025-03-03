@@ -11,6 +11,7 @@ en:
     show: "Show"
     delete: "Delete"
     new: "New"
+    back: "Back"
   new:
     coin: "New Coin"
     mining_type: "New Mining Type"

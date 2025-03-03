@@ -8,6 +8,7 @@ pt-BR:
   hello: "Olá Mundo"
   links:
     edit: "Editar"
+    back: "Voltar"
     show: "Mostrar"
     delete: "Apagar"
     new: "Novo"
